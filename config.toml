@@ -1,0 +1,12 @@
+[oss]
+endpoint = "oss-ap-xxxx-5.aliyuncs.com" 
+accesskeyid = "XxXXXXXxXXXxxxXx" 
+secretaccesskey = "XxXNxXxNxXXxxXxxxxxxxxXXXLXxxX" 
+bucket = "bucket-name" 
+
+[s3]
+region = "ap-xxxx-1" 
+accesskeyid = "XXXNXXXNXXNNXXN" 
+secretaccesskey = "XNXNxxNXnXnnXNXNXnxnnnxXnXnX" 
+bucket = "bucket-name" 
+token=""
